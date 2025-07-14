@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg-step-4a" width="600" height="300" viewBox="0 0 600 300">
+            <!-- Top half sectors -->
+            <g transform="translate(150,150)">
+                <g id="top-sectors">
+                    <!-- Individual top sectors -->
+                    <path d="M 0,0 L 80,0 A 5,5 0 0,1 77.3,15.6 Z" fill="rgba(231, 76, 60, 0.7)" stroke="#e74c3c" stroke-width="1"/>
+                    <path d="M 0,0 L 77.3,15.6 A 5,5 0 0,1 69.3,30.9 Z" fill="rgba(231, 76, 60, 0.7)" stroke="#e74c3c" stroke-width="1"/>
+                    <path d="M 0,0 L 69.3,30.9 A 5,5 0 0,1 56.6,45.3 Z" fill="rgba(231, 76, 60, 0.7)" stroke="#e74c3c" stroke-width="1"/>
+                    <path d="M 0,0 L 56.6,45.3 A 5,5 0 0,1 40,58.8 Z" fill="rgba(231, 76, 60, 0.7)" stroke="#e74c3c" stroke-width="1"/>
+                    <path d="M 0,0 L 40,58.8 A 5,5 0 0,1 20.8,70.7 Z" fill="rgba(231, 76, 60, 0.7)" stroke="#e74c3c" stroke-width="1"/>
+                    <path d="M 0,0 L 20.8,70.7 A 5,5 0 0,1 0,80 Z" fill="rgba(231, 76, 60, 0.7)" stroke="#e74c3c" stroke-width="1"/>
+                    <path d="M 0,0 L 0,80 A 5,5 0 0,1 -20.8,70.7 Z" fill="rgba(231, 76, 60, 0.7)" stroke="#e74c3c" stroke-width="1"/>
+                    <path d="M 0,0 L -20.8,70.7 A 5,5 0 0,1 -40,58.8 Z" fill="rgba(231, 76, 60, 0.7)" stroke="#e74c3c" stroke-width="1"/>
+                    <path d="M 0,0 L -40,58.8 A 5,5 0 0,1 -56.6,45.3 Z" fill="rgba(231, 76, 60, 0.7)" stroke="#e74c3c" stroke-width="1"/>
+                    <path d="M 0,0 L -56.6,45.3 A 5,5 0 0,1 -69.3,30.9 Z" fill="rgba(231, 76, 60, 0.7)" stroke="#e74c3c" stroke-width="1"/>
+                    <path d="M 0,0 L -69.3,30.9 A 5,5 0 0,1 -77.3,15.6 Z" fill="rgba(231, 76, 60, 0.7)" stroke="#e74c3c" stroke-width="1"/>
+                    <path d="M 0,0 L -77.3,15.6 A 5,5 0 0,1 -80,0 Z" fill="rgba(231, 76, 60, 0.7)" stroke="#e74c3c" stroke-width="1"/>
+                    <!-- Add remaining top sectors -->
+                    <path d="M 0,0 L -80,0 A 5,5 0 0,1 -77.3,-15.6 Z" fill="rgba(231, 76, 60, 0.7)" stroke="#e74c3c" stroke-width="1"/>
+                    <path d="M 0,0 L -77.3,-15.6 A 5,5 0 0,1 -69.3,-30.9 Z" fill="rgba(231, 76, 60, 0.7)" stroke="#e74c3c" stroke-width="1"/>
+                    <path d="M 0,0 L -69.3,-30.9 A 5,5 0 0,1 -56.6,-45.3 Z" fill="rgba(231, 76, 60, 0.7)" stroke="#e74c3c" stroke-width="1"/>
+                    <path d="M 0,0 L -56.6,-45.3 A 5,5 0 0,1 -40,-58.8 Z" fill="rgba(231, 76, 60, 0.7)" stroke="#e74c3c" stroke-width="1"/>
+                </g>
+                <text x="0" y="-100" font-family="Arial" font-size="14" fill="#e74c3c" text-anchor="middle">Top 16 sectors</text>
+                <circle cx="0" cy="0" r="2" fill="#2c3e50"/>
+            </g>
+            <!-- Bottom half sectors -->
+            <g transform="translate(450,150)">
+                <g id="bottom-sectors">
+                    <!-- Individual bottom sectors -->
+                    <path d="M 0,0 L -20.8,-70.7 A 5,5 0 0,1 0,-80 Z" fill="rgba(46, 204, 113, 0.7)" stroke="#2ecc71" stroke-width="1"/>
+                    <path d="M 0,0 L 0,-80 A 5,5 0 0,1 20.8,-70.7 Z" fill="rgba(46, 204, 113, 0.7)" stroke="#2ecc71" stroke-width="1"/>
+                    <path d="M 0,0 L 20.8,-70.7 A 5,5 0 0,1 40,-58.8 Z" fill="rgba(46, 204, 113, 0.7)" stroke="#2ecc71" stroke-width="1"/>
+                    <path d="M 0,0 L 40,-58.8 A 5,5 0 0,1 56.6,-45.3 Z" fill="rgba(46, 204, 113, 0.7)" stroke="#2ecc71" stroke-width="1"/>
+                    <path d="M 0,0 L 56.6,-45.3 A 5,5 0 0,1 69.3,-30.9 Z" fill="rgba(46, 204, 113, 0.7)" stroke="#2ecc71" stroke-width="1"/>
+                    <path d="M 0,0 L 69.3,-30.9 A 5,5 0 0,1 77.3,-15.6 Z" fill="rgba(46, 204, 113, 0.7)" stroke="#2ecc71" stroke-width="1"/>
+                    <path d="M 0,0 L 77.3,-15.6 A 5,5 0 0,1 80,0 Z" fill="rgba(46, 204, 113, 0.7)" stroke="#2ecc71" stroke-width="1"/>
+                    <path d="M 0,0 L 80,0 A 5,5 0 0,1 77.3,15.6 Z" fill="rgba(46, 204, 113, 0.7)" stroke="#2ecc71" stroke-width="1"/>
+                    <path d="M 0,0 L 77.3,15.6 A 5,5 0 0,1 69.3,30.9 Z" fill="rgba(46, 204, 113, 0.7)" stroke="#2ecc71" stroke-width="1"/>
+                    <path d="M 0,0 L 69.3,30.9 A 5,5 0 0,1 56.6,45.3 Z" fill="rgba(46, 204, 113, 0.7)" stroke="#2ecc71" stroke-width="1"/>
+                    <path d="M 0,0 L 56.6,45.3 A 5,5 0 0,1 40,58.8 Z" fill="rgba(46, 204, 113, 0.7)" stroke="#2ecc71" stroke-width="1"/>
+                    <path d="M 0,0 L 40,58.8 A 5,5 0 0,1 20.8,70.7 Z" fill="rgba(46, 204, 113, 0.7)" stroke="#2ecc71" stroke-width="1"/>
+                    <path d="M 0,0 L 20.8,70.7 A 5,5 0 0,1 0,80 Z" fill="rgba(46, 204, 113, 0.7)" stroke="#2ecc71" stroke-width="1"/>
+                    <path d="M 0,0 L 0,80 A 5,5 0 0,1 -20.8,70.7 Z" fill="rgba(46, 204, 113, 0.7)" stroke="#2ecc71" stroke-width="1"/>
+                    <path d="M 0,0 L -20.8,70.7 A 5,5 0 0,1 -40,58.8 Z" fill="rgba(46, 204, 113, 0.7)" stroke="#2ecc71" stroke-width="1"/>
+                    <path d="M 0,0 L -40,58.8 A 5,5 0 0,1 -56.6,45.3 Z" fill="rgba(46, 204, 113, 0.7)" stroke="#2ecc71" stroke-width="1"/>
+                </g>
+                <text x="0" y="100" font-family="Arial" font-size="14" fill="#2ecc71" text-anchor="middle">Bottom 16 sectors</text>
+                <circle cx="0" cy="0" r="2" fill="#2c3e50"/>
+            </g>
+        </svg>

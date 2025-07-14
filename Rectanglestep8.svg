@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg-step-5" width="600" height="250" viewBox="0 0 600 250">
+            <!-- Approximate rectangle made from alternating sectors -->
+            <g transform="translate(50,50)">
+                <!-- Base rectangle outline -->
+                <rect x="0" y="0" width="500" height="80" fill="none" stroke="#2c3e50" stroke-width="2" stroke-dasharray="5,5"/>
+                
+                <!-- Alternating triangular sectors forming the rectangle -->
+                <g id="sectors-rect">
+                    <!-- Top sectors (pointing down) -->
+                    <polygon points="0,0 15.625,0 7.8125,80" fill="rgba(231, 76, 60, 0.6)" stroke="#e74c3c" stroke-width="1"/>
+                    <polygon points="31.25,0 46.875,0 39.0625,80" fill="rgba(231, 76, 60, 0.6)" stroke="#e74c3c" stroke-width="1"/>
+                    <polygon points="62.5,0 78.125,0 70.3125,80" fill="rgba(231, 76, 60, 0.6)" stroke="#e74c3c" stroke-width="1"/>
+                    <polygon points="93.75,0 109.375,0 101.5625,80" fill="rgba(231, 76, 60, 0.6)" stroke="#e74c3c" stroke-width="1"/>
+                    <polygon points="125,0 140.625,0 132.8125,80" fill="rgba(231, 76, 60, 0.6)" stroke="#e74c3c" stroke-width="1"/>
+                    <polygon points="156.25,0 171.875,0 164.0625,80" fill="rgba(231, 76, 60, 0.6)" stroke="#e74c3c" stroke-width="1"/>
+                    <polygon points="187.5,0 203.125,0 195.3125,80" fill="rgba(231, 76, 60, 0.6)" stroke="#e74c3c" stroke-width="1"/>
+                    <polygon points="218.75,0 234.375,0 226.5625,80" fill="rgba(231, 76, 60, 0.6)" stroke="#e74c3c" stroke-width="1"/>
+                    <polygon points="250,0 265.625,0 257.8125,80" fill="rgba(231, 76, 60, 0.6)" stroke="#e74c3c" stroke-width="1"/>
+                    <polygon points="281.25,0 296.875,0 289.0625,80" fill="rgba(231, 76, 60, 0.6)" stroke="#e74c3c" stroke-width="1"/>
+                    <polygon points="312.5,0 328.125,0 320.3125,80" fill="rgba(231, 76, 60, 0.6)" stroke="#e74c3c" stroke-width="1"/>
+                    <polygon points="343.75,0 359.375,0 351.5625,80" fill="rgba(231, 76, 60, 0.6)" stroke="#e74c3c" stroke-width="1"/>
+                    <polygon points="375,0 390.625,0 382.8125,80" fill="rgba(231, 76, 60, 0.6)" stroke="#e74c3c" stroke-width="1"/>
+                    <polygon points="406.25,0 421.875,0 414.0625,80" fill="rgba(231, 76, 60, 0.6)" stroke="#e74c3c" stroke-width="1"/>
+                    <polygon points="437.5,0 453.125,0 445.3125,80" fill="rgba(231, 76, 60, 0.6)" stroke="#e74c3c" stroke-width="1"/>
+                    <polygon points="468.75,0 484.375,0 476.5625,80" fill="rgba(231, 76, 60, 0.6)" stroke="#e74c3c" stroke-width="1"/>
+                    
+                    <!-- Bottom sectors (pointing up) -->
+                    <polygon points="15.625,80 31.25,80 23.4375,0" fill="rgba(46, 204, 113, 0.6)" stroke="#2ecc71" stroke-width="1"/>
+                    <polygon points="46.875,80 62.5,80 54.6875,0" fill="rgba(46, 204, 113, 0.6)" stroke="#2ecc71" stroke-width="1"/>
+                    <polygon points="78.125,80 93.75,80 85.9375,0" fill="rgba(46, 204, 113, 0.6)" stroke="#2ecc71" stroke-width="1"/>
+                    <polygon points="109.375,80 125,80 117.1875,0" fill="rgba(46, 204, 113, 0.6)" stroke="#2ecc71" stroke-width="1"/>
+                    <polygon points="140.625,80 156.25,80 148.4375,0" fill="rgba(46, 204, 113, 0.6)" stroke="#2ecc71" stroke-width="1"/>
+                    <polygon points="171.875,80 187.5,80 179.6875,0" fill="rgba(46, 204, 113, 0.6)" stroke="#2ecc71" stroke-width="1"/>
+                    <polygon points="203.125,80 218.75,80 210.9375,0" fill="rgba(46, 204, 113, 0.6)" stroke="#2ecc71" stroke-width="1"/>
+                    <polygon points="234.375,80 250,80 242.1875,0" fill="rgba(46, 204, 113, 0.6)" stroke="#2ecc71" stroke-width="1"/>
+                    <polygon points="265.625,80 281.25,80 273.4375,0" fill="rgba(46, 204, 113, 0.6)" stroke="#2ecc71" stroke-width="1"/>
+                    <polygon points="296.875,80 312.5,80 304.6875,0" fill="rgba(46, 204, 113, 0.6)" stroke="#2ecc71" stroke-width="1"/>
+                    <polygon points="328.125,80 343.75,80 335.9375,0" fill="rgba(46, 204, 113, 0.6)" stroke="#2ecc71" stroke-width="1"/>
+                    <polygon points="359.375,80 375,80 367.1875,0" fill="rgba(46, 204, 113, 0.6)" stroke="#2ecc71" stroke-width="1"/>
+                    <polygon points="390.625,80 406.25,80 398.4375,0" fill="rgba(46, 204, 113, 0.6)" stroke="#2ecc71" stroke-width="1"/>
+                    <polygon points="421.875,80 437.5,80 429.6875,0" fill="rgba(46, 204, 113, 0.6)" stroke="#2ecc71" stroke-width="1"/>
+                    <polygon points="453.125,80 468.75,80 460.9375,0" fill="rgba(46, 204, 113, 0.6)" stroke="#2ecc71" stroke-width="1"/>
+                    <polygon points="484.375,80 500,80 492.1875,0" fill="rgba(46, 204, 113, 0.6)" stroke="#2ecc71" stroke-width="1"/>
+                </g>
+                
+                <!-- Dimensions -->
+                <text x="250" y="-10" font-family="Arial" font-size="16" fill="#2c3e50" text-anchor="middle">Base = πr</text>
+                <text x="-10" y="95" font-family="Arial" font-size="16" fill="#2c3e50" text-anchor="middle">Height = r</text>
+                
+                <!-- Dimension lines -->
+                <line x1="0" y1="-25" x2="500" y2="-25" stroke="#2c3e50" stroke-width="1"/>
+                <line x1="0" y1="-30" x2="0" y2="-20" stroke="#2c3e50" stroke-width="1"/>
+                <line x1="500" y1="-30" x2="500" y2="-20" stroke="#2c3e50" stroke-width="1"/>
+                
+                <line x1="-15" y1="0" x2="-15" y2="80" stroke="#2c3e50" stroke-width="1"/>
+                <line x1="-20" y1="0" x2="-10" y2="0" stroke="#2c3e50" stroke-width="1"/>
+                <line x1="-20" y1="80" x2="-10" y2="80" stroke="#2c3e50" stroke-width="1"/>
+            </g>
+        </svg>

@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg-step-3" width="400" height="300" viewBox="0 0 400 300">
+            <g transform="translate(200,150)">
+                <!-- Draw 32 sectors -->
+                <circle cx="0" cy="0" r="80" fill="rgba(52, 152, 219, 0.3)" stroke="#3498db" stroke-width="2"/>
+                <!-- Draw radial lines for sectors -->
+                <g id="sectors">
+                    <script>
+                        for(let i = 0; i &lt; 32; i++) {
+                            const angle = (i * 360 / 32) * Math.PI / 180;
+                            const x = 80 * Math.cos(angle);
+                            const y = 80 * Math.sin(angle);
+                            document.write(<line x1="0" y1="0" x2="${x}" y2="${y}" stroke="#2c3e50" stroke-width="1"/>);
+                        }
+                    </script>
+                    <line x1="0" y1="0" x2="80" y2="0" stroke="#2c3e50" stroke-width="1"/>
+                    <line x1="0" y1="0" x2="77.3" y2="15.6" stroke="#2c3e50" stroke-width="1"/>
+                    <line x1="0" y1="0" x2="69.3" y2="30.9" stroke="#2c3e50" stroke-width="1"/>
+                    <line x1="0" y1="0" x2="56.6" y2="56.6" stroke="#2c3e50" stroke-width="1"/>
+                    <line x1="0" y1="0" x2="40" y2="69.3" stroke="#2c3e50" stroke-width="1"/>
+                    <line x1="0" y1="0" x2="20.8" y2="76.4" stroke="#2c3e50" stroke-width="1"/>
+                    <line x1="0" y1="0" x2="0" y2="80" stroke="#2c3e50" stroke-width="1"/>
+                    <line x1="0" y1="0" x2="-20.8" y2="76.4" stroke="#2c3e50" stroke-width="1"/>
+                    <line x1="0" y1="0" x2="-40" y2="69.3" stroke="#2c3e50" stroke-width="1"/>
+                    <line x1="0" y1="0" x2="-56.6" y2="56.6" stroke="#2c3e50" stroke-width="1"/>
+                    <line x1="0" y1="0" x2="-69.3" y2="30.9" stroke="#2c3e50" stroke-width="1"/>
+                    <line x1="0" y1="0" x2="-77.3" y2="15.6" stroke="#2c3e50" stroke-width="1"/>
+                    <line x1="0" y1="0" x2="-80" y2="0" stroke="#2c3e50" stroke-width="1"/>
+                    <line x1="0" y1="0" x2="-77.3" y2="-15.6" stroke="#2c3e50" stroke-width="1"/>
+                    <line x1="0" y1="0" x2="-69.3" y2="-30.9" stroke="#2c3e50" stroke-width="1"/>
+                    <line x1="0" y1="0" x2="-56.6" y2="-56.6" stroke="#2c3e50" stroke-width="1"/>
+                    <line x1="0" y1="0" x2="-40" y2="-69.3" stroke="#2c3e50" stroke-width="1"/>
+                    <line x1="0" y1="0" x2="-20.8" y2="-76.4" stroke="#2c3e50" stroke-width="1"/>
+                    <line x1="0" y1="0" x2="0" y2="-80" stroke="#2c3e50" stroke-width="1"/>
+                    <line x1="0" y1="0" x2="20.8" y2="-76.4" stroke="#2c3e50" stroke-width="1"/>
+                    <line x1="0" y1="0" x2="40" y2="-69.3" stroke="#2c3e50" stroke-width="1"/>
+                    <line x1="0" y1="0" x2="56.6" y2="-56.6" stroke="#2c3e50" stroke-width="1"/>
+                    <line x1="0" y1="0" x2="69.3" y2="-30.9" stroke="#2c3e50" stroke-width="1"/>
+                    <line x1="0" y1="0" x2="77.3" y2="-15.6" stroke="#2c3e50" stroke-width="1"/>
+                </g>
+                <circle cx="0" cy="0" r="3" fill="#2c3e50"/>
+            </g>
+        </svg>

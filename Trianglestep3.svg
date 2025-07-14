@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg-step3" width="400" height="200" viewBox="0 0 400 200">
+            <g transform="translate(200,100)">
+                <!-- Show the whole ring -->
+                <path d="M 0 -72.5 A 72.5 72.5 0 1 1 0 72.5 A 72.5 72.5 0 1 1 0 -72.5 Z&#10;                          M 0 -57.5 A 57.5 57.5 0 1 0 0 57.5 A 57.5 57.5 0 1 0 0 -57.5 Z" fill="#3498db" stroke="#2980b9" stroke-width="2" fill-rule="evenodd"/>
+                <!-- Dashed cut line -->
+                <line x1="0" y1="-72.5" x2="0" y2="-57.5" stroke="#e74c3c" stroke-width="3" stroke-dasharray="6,4"/>
+                <!-- Scissor icon (simple) -->
+                <circle cx="0" cy="-80" r="5" fill="#e74c3c"/>
+                <rect x="-2" y="-87" width="4" height="8" fill="#e74c3c"/>
+            </g>
+        </svg>
