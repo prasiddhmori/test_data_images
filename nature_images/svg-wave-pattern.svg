@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg-wave-pattern" width="180" height="60" viewBox="0 0 180 60">
+        <path d="M10,40 Q25,10 40,40 T70,40 T100,40 T130,40 T160,40" fill="none" stroke="#43a047" stroke-width="3"/>
+        <circle cx="10" cy="40" r="4" fill="#42a5f5"/>
+        <circle cx="40" cy="40" r="4" fill="#ab47bc"/>
+        <circle cx="70" cy="40" r="4" fill="#42a5f5"/>
+        <circle cx="100" cy="40" r="4" fill="#ab47bc"/>
+        <circle cx="130" cy="40" r="4" fill="#42a5f5"/>
+        <circle cx="160" cy="40" r="4" fill="#ab47bc"/>
+      </svg>

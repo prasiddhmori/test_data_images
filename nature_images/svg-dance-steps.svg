@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg-dance-steps" width="180" height="80" viewBox="0 0 180 80">
+        <rect x="20" y="60" width="40" height="15" fill="#ffe082"/>
+        <rect x="60" y="45" width="40" height="15" fill="#ffe082"/>
+        <rect x="100" y="30" width="40" height="15" fill="#ffe082"/>
+        <rect x="140" y="15" width="40" height="15" fill="#ffe082"/>
+        <ellipse cx="40" cy="67" rx="6" ry="3" fill="#8d6e63"/>
+        <ellipse cx="80" cy="52" rx="6" ry="3" fill="#8d6e63"/>
+        <ellipse cx="120" cy="37" rx="6" ry="3" fill="#8d6e63"/>
+        <ellipse cx="160" cy="22" rx="6" ry="3" fill="#8d6e63"/>
+      </svg>

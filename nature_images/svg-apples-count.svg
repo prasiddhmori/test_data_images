@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg-apples-count" width="180" height="60" viewBox="0 0 180 60">
+        <g>
+          <circle cx="20" cy="30" r="15" fill="#e74c3c"/><text x="20" y="55" font-size="14" text-anchor="middle">1</text>
+          <circle cx="55" cy="30" r="15" fill="#e74c3c"/><text x="55" y="55" font-size="14" text-anchor="middle">2</text>
+          <circle cx="90" cy="30" r="15" fill="#e74c3c"/><text x="90" y="55" font-size="14" text-anchor="middle">3</text>
+          <circle cx="125" cy="30" r="15" fill="#e74c3c"/><text x="125" y="55" font-size="14" text-anchor="middle">4</text>
+          <circle cx="160" cy="30" r="15" fill="#e74c3c"/><text x="160" y="55" font-size="14" text-anchor="middle">5</text>
+        </g>
+      </svg>

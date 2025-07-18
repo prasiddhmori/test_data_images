@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg-odd-numbers" width="180" height="60" viewBox="0 0 180 60">
+        <g>
+          <circle cx="20" cy="30" r="15" fill="#43a047"/><text x="20" y="55" font-size="14" text-anchor="middle">1</text>
+          <circle cx="60" cy="30" r="15" fill="#43a047"/><text x="60" y="55" font-size="14" text-anchor="middle">3</text>
+          <circle cx="100" cy="30" r="15" fill="#43a047"/><text x="100" y="55" font-size="14" text-anchor="middle">5</text>
+          <circle cx="140" cy="30" r="15" fill="#43a047"/><text x="140" y="55" font-size="14" text-anchor="middle">7</text>
+        </g>
+      </svg>

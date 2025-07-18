@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg-numbers-treasure" width="180" height="60" viewBox="0 0 180 60">
+        <text x="20" y="35" font-size="22" fill="#388e3c">2 4 6 8 10</text>
+        <rect x="120" y="30" width="30" height="18" rx="4" fill="#fbc02d" stroke="#b8860b" stroke-width="2"/>
+        <rect x="120" y="40" width="30" height="8" rx="2" fill="#fffde7" stroke="#b8860b" stroke-width="1"/>
+        <circle cx="135" cy="39" r="3" fill="#b8860b"/>
+      </svg>
